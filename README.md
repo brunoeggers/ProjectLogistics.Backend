@@ -3,8 +3,10 @@ This repository is for the backend.
 
 For the frontend, go to <https://github.com/brunoeggers/ProjectLogistics.Frontend>
 
-## Stack
-Developed in C# .Net 6 using Visual Studio 2022
+## Tech Stack
+C# .Net 6 using Visual Studio 2022
+
+SQLite
 
 ## Setup
 1. Clone this repository and open ProjectLogistics.sln in Visual Studio
